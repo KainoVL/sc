@@ -1,1 +1,1 @@
-print("loadstring test")
+print("this shit is so ass")
